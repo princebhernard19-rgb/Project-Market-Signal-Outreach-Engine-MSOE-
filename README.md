@@ -1,4 +1,4 @@
-# Project-Market-Signal-Outreach-Engine-MSOE-
+# Project: -Market-Signal-Outreach-Engine-(MSOE)-
 An AI-Driven Framework for Identifying High-Growth Market Opportunities and Executive Engagement
 📌 Project Overview
 This project defines a structured, four-stage algorithmic approach to identifying "Hidden Market" opportunities within high-growth tech sectors. By leveraging real-time financial signals (Series A/B funding rounds), the framework automates the transition from market research to high-level strategic outreach.
